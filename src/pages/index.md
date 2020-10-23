@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Chicano Finance
+image: /img/products-grid1.jpg
+heading: Advice like abuela used to give, but with less chancla
+subheading: Finance for the lost generation
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Finance doesn't have to be hard but...
+  description: Latinx parent's aren't the best at talking about hard things, so
+    I'm compiling a repository of abuela's advice, with less chancla. Join me to
+    hear more about it!
+description: Let's face it, our parents weren't great at talking about finances.
+  There were no kitchen table asset allocation or budget meetings in my house.
 intro:
   blurbs:
     - image: /img/coffee.png
